@@ -1,4 +1,4 @@
-[README.md.md](https://github.com/user-attachments/files/34765383/README.md.md)
+[README.md](https://github.com/user-attachments/files/34765383/README.md.md)
 # Brain volume and dementia in the OASIS longitudinal MRI dataset
 
 An exploratory analysis in R of brain volume, age and dementia status in older adults.
